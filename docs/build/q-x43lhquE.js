@@ -1,0 +1,1 @@
+import{k as l,q as c}from"./q-kyK1MqD4.js";const t=o=>l("button",{onClick$:o.changeColor},{class:"rounded-[50%] w-8 h-8 border-black border","data-color":c(r=>r.color,[o]),id:"colorPicker",style:c(r=>`background-color: ${r.color};`,[o])},null,2,"YE_0");export{t as s_QKQWxOWTviE};
